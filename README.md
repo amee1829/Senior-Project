@@ -36,3 +36,4 @@ table of contents ISBN:0-7695-2976-3
 https://shorensteincenter.org/digital-deceit-precision-propaganda/
 "Digital deceit" by By Dipayan Ghosh, Shorenstein Fellow, and Ben Scott, Senior Advisor to the Open Technology Institute at New America. Co-published by the New America Foundation and the Shorenstein Center.
 
+https://firstdraftnews.org/projects/
