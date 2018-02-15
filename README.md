@@ -43,6 +43,9 @@ https://shorensteincenter.org/digital-deceit-precision-propaganda/
 
 https://firstdraftnews.org/projects/
 
+https://sproutsocial.com/insights/how-to-use-hashtags/
+a brief history of hashtags
+
 Classifiers:
 J48 (3 fold cross validation strategy)
 Bayes
