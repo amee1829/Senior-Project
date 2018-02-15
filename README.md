@@ -46,6 +46,11 @@ https://firstdraftnews.org/projects/
 https://sproutsocial.com/insights/how-to-use-hashtags/
 a brief history of hashtags
 
+Twitter Monitor- event detector, an online monitoring tool.  Detects spikesin the frequency of sets of keywords
+
+https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
+A step by step method for learning how to scrape data using SciKit.
+
 Classifiers:
 J48 (3 fold cross validation strategy)
 Bayes
