@@ -18,6 +18,11 @@ Yiannis Kompatsiaris	Center for Research and Technology Hellas (CERTH), Thermi-T
 Steve Schifferes	City University London, London, United Kingdom
 Nic Newman City University London, London, United Kingdom
 
+https://link-springer-com.ezproxy.uhd.edu/content/pdf/10.1007%2Fs00779-011-0412-2.pdf
+"Habits make smartphone use more pervasive"
+by Antti Oulasvirta • Tye Rattenbury •
+Lingyi Ma • Eeva Raita
+
 Misc:
 Tutorial:
 https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
