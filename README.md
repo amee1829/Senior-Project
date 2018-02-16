@@ -51,6 +51,8 @@ Twitter Monitor- event detector, an online monitoring tool.  Detects spikesin th
 https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
 A step by step method for learning how to scrape data using SciKit.
 
+https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
+
 Classifiers:
 J48 (3 fold cross validation strategy)
 Bayes
