@@ -28,6 +28,9 @@ Tutorial:
 https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
 This tutorial is a step-by-step process of scraping the data using python and employing the classifier Bayes Algorithm. 
 
+https://www.lynda.com/Python-tutorials/Extreme-value-analysis-using-univariate-methods/520233/601963-4.html
+Lynda tutorial 
+
 https://dl-acm-org.ezproxy.uhd.edu/citation.cfm?id=1318233
 by 	R. achid Rebiha	and Giovanni L. Ciampaglia
 Published in:
