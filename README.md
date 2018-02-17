@@ -71,3 +71,6 @@ Lynda Course
 
 https://en.wikipedia.org/wiki/Cross-validation_(statistics)#/media/File:K-fold_cross_validation_EN.jpg
 K-fold Training sets and their iteration
+
+http://www.fakenewschallenge.org
+Fake New Challenge website from Miguel Martinez post
