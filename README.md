@@ -55,7 +55,7 @@ https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning
 A step by step method for learning how to scrape data using SciKit.
 
 https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
-building a dataset using fake news using Bayes model 
+This scikit-learn tutorial will walk you through building a fake news classifier with the help of Bayesian models.
 
 
 https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
