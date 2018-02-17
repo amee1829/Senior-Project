@@ -60,3 +60,7 @@ Classifiers:
 J48 (3 fold cross validation strategy)
 Bayes
 SVM
+
+2/17/2018
+https://www.lynda.com/Python-tutorials/Introduction-machine-learning/520233/601959-4.html
+Lynda Course
