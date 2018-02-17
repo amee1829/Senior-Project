@@ -75,3 +75,6 @@ K-fold Training sets and their iteration
 http://www.fakenewschallenge.org
 Fake New Challenge website from Miguel Martinez post
 https://medium.com/@deanpomerleau_24908/time-to-challenge-fake-news-with-ai-7036a1f22c0d
+
+/Users/AliceinWonderland/.spyder
+#directory where tutorial files are
