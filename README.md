@@ -1,4 +1,9 @@
 # Senior-Project
+
+3/1
+https://github.com/KaiDMML/FakeNewsNet/tree/master/Data/BuzzFeed
+new labelled dataset
+
 What is fake news and (machine learning) methods to identify it.
 
 Articles pulled:
