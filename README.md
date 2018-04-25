@@ -1,5 +1,8 @@
 # Senior-Project
 
+https://arxiv.org/pdf/1405.5490.pdf
+TweetCred: Real-Time Credibility Assessment of Content on Twitter
+
 3/1
 https://github.com/KaiDMML/FakeNewsNet/tree/master/Data/BuzzFeed
 new labelled dataset
